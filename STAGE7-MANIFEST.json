@@ -1,0 +1,15 @@
+{
+  "stage": 7,
+  "title": "Live 3D Player Interaction + Broadcast Camera Foundation",
+  "base": "Stage 6",
+  "added": [
+    "quadratic ball flight",
+    "nearest fielder selection",
+    "fielder interception movement",
+    "fielding event runtime states",
+    "broadcast camera modes",
+    "animation state vocabulary",
+    "runtime/presentation separation"
+  ],
+  "honest_scope": "Procedural player meshes remain placeholders; production rigs, motion capture, advanced collision sensors and multiplayer are not included."
+}

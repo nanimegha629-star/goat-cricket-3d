@@ -1,0 +1,6 @@
+{
+  "stage": 9,
+  "status": "final prototype milestone",
+  "features": ["full delivery loop", "innings state", "legal balls", "free hit", "target/RRR", "delivery types", "dynamic commentary", "bat-ball contact integration"],
+  "retains": ["Stage 1-8 systems", "six supplied character references", "22-player roster", "stadium signage", "AI foundation", "camera/replay foundation", "DRS foundation"]
+}
